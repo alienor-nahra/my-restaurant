@@ -1,0 +1,62 @@
+body {
+	background-color: #e5e4cc;
+	font-family: 'Roboto';
+	font-weight: normal;
+	font-size: 17px;
+	color: black;
+}
+h1 {color: black;
+	font-weight: 80;
+	font-family: 'Permanent Marker', cursive;
+}	
+h2 {color: #698474;
+	font-family: 'Glegoo';
+	font-weight: bold;
+}
+img {
+	width: 100%;	
+}
+a{  text-decoration: none; 
+	color: #698474;
+	font-size: 16px;
+	font-family: Glegoo;
+	font-weight: bolder;
+}
+a:hover {
+	color: black;
+}
+.container{
+	width: 70%;
+	margin: 40px auto;
+	text-align: center;
+}
+.box-white {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+	border-radius: 4px;
+	margin: 25px 0px;
+}
+.btn-pink {
+	background:#faf3dd;
+	border-radius:4px;
+	width: 30%;
+	margin: 0px auto;
+	font-size: 16px;
+}
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+.list-inline i {
+	font-size: 30px;
+}
+.carte {
+	list-style: none;
+	padding-left: 0px;
+	text-align: left;
+}
